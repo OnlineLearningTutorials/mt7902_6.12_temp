@@ -1,3 +1,28 @@
+*.tar.xz
+*.tgz
+*.bz
+*.zip
+
+*.o
+*.o.d
+*.mod
+*.mod.c
+*.cmd
+*.ko
+*.rej
+*.order
+*.symvers
+
+
+firmware/
+.backup/
+
+
+
+
+
+
+
 # http://www.gnu.org/software/automake
 
 Makefile.in
